@@ -1,0 +1,11 @@
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\bin\Debug\net6.0\Task_12.1.2023.Domain.deps.json
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\bin\Debug\net6.0\Task_12.1.2023.Domain.dll
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\bin\Debug\net6.0\Task_12.1.2023.Domain.pdb
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\obj\Debug\net6.0\Task_12.1.2023.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\obj\Debug\net6.0\Task_12.1.2023.Domain.AssemblyInfoInputs.cache
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\obj\Debug\net6.0\Task_12.1.2023.Domain.AssemblyInfo.cs
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\obj\Debug\net6.0\Task_12.1.2023.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\obj\Debug\net6.0\Task_12.1.2023.Domain.dll
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\obj\Debug\net6.0\refint\Task_12.1.2023.Domain.dll
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\obj\Debug\net6.0\Task_12.1.2023.Domain.pdb
+C:\Users\TeymurDevv\Desktop\C#\Task_12.1.2023\Task_12.1.2023.Domain\obj\Debug\net6.0\ref\Task_12.1.2023.Domain.dll
